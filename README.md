@@ -36,7 +36,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank" title="Git">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+    <img src="https://img.icons8.com/color/48/git.png" width="40" alt="Git"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/" target="_blank" title="GitHub">
