@@ -25,6 +25,8 @@
 
 ## 🛠️ Languages & Tools
 
+## 🛠️ Languages & Tools
+
 <p align="center">
   <a href="https://www.python.org/" target="_blank" title="Python">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
@@ -52,6 +54,14 @@
   &nbsp;&nbsp;
   <a href="https://github.com/" target="_blank" title="GitHub">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.java.com/" target="_blank" title="Java">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank" title="SQL">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="SQL"/>
   </a>
 </p>
 
