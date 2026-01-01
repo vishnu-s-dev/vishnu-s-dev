@@ -1,14 +1,25 @@
 <h1 align="center">👋 Hello, I'm Vishnu Dev S</h1>
-<h3 align="center">ECE Student | IoT & Embedded Enthusiast | Flutter Developer</h3>
+<h3 align="center">ECE Student | IoT & Embedded Enthusiast | Flutter & Python Developer</h3>
 
 ---
 
 ## 🧑‍💼 About Me
 
 🎓 Final-year B.Tech student in **Electronics and Communication Engineering** at M.A. College of Engineering, Kothamangalam.  
-💡 Passionate about solving real-world problems using technology.  
-🔧 Skilled in **Flutter**, **Python**, **MATLAB**, and IoT platforms.  
+💡 Strong analytical and problem-solving skills with experience in **IoT and embedded systems**.  
+🔧 Proficient in **Python, C, Embedded C, Java**, and actively practicing **DSA** on platforms like [LeetCode](https://leetcode.com/u/vishnusdev/) and HackerRank.  
+🚀 Highly motivated, quick learner, and passionate about building scalable and impactful software solutions.  
 
+---
+
+## 🛠️ Technical Skills
+
+**Programming & CS Fundamentals:** Python, C, Embedded C, Java, SQL | DSA | OOP | Computer Networks  
+**IoT & Embedded Systems:** Arduino, ESP32, Sensors, Microcontroller Programming, Embedded C, Sensor Integration & Calibration, Communication Protocols, Hardware–Software Integration  
+**Design & Modeling:** Fusion 360 (3D Design)  
+**Databases:** SQL  
+**Tools & Platforms:** VS Code, Cursor, Git, GitHub  
+**Core Strengths:** Problem Solving, System Design, Team Collaboration  
 
 ---
 
@@ -53,13 +64,19 @@
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" title="Gmail"/>
   </a>
   &nbsp;&nbsp;&nbsp;
+  <a href="tel:+917356684930" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/phone.png" alt="Phone" title="Phone"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/vishnu-s-dev" target="_blank">
     <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" alt="GitHub" title="GitHub" style="background:#000; border-radius:50%; padding:6px;"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/vishnusdev/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/code.png" alt="LeetCode" title="LeetCode"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/vishnusdev/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" title="LinkedIn"/>
   </a>
 </p>
-
----
